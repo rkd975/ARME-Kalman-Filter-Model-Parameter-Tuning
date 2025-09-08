@@ -9,7 +9,7 @@
 
 ## Code Contents
 ### RD_optimise:
-- Runs optimisation for choice of parameteres and choice of static/dynamic alpha
+- Runs optimisation for choice of parameters and choice of static/dynamic alpha
 - Plots KF predicted s timeseries vs true s timeseries
 - Plots heatmap over process and observation noise parameter space 
 
