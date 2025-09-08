@@ -31,4 +31,4 @@
 - (contains some hidden plots that have been commented out)
 
 ## PowerPoint Summary of Analysis
-[View PowerPoint](ARME Analysis Summary.pptx)
+[Link to PowerPoint](./slides/ARME Analysis Summary.pptx)
