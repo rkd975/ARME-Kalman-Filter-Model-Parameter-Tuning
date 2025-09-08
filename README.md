@@ -29,3 +29,6 @@
 - Plots asynchrony timeseries
 - Plots heatmaps of combined loss over noise parameter space for each condition (DP, NR, SP)
 - (contains some hidden plots that have been commented out)
+
+## PowerPoint Summary of Analysis
+[View PowerPoint](
